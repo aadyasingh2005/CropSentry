@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, ScrollView, TouchableOpacity, SafeAreaView, Ima
 import { useLocalSearchParams, useRouter } from 'expo-router';
 
 // OpenAI API configuration 
-//const OPENAI_API_KEY = "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"
+//const OPENAI_API_KEY = "add api key"
 const API_URL = 'https://api.openai.com/v1/chat/completions';
 
 export default function ReportScreen() {
